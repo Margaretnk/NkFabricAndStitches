@@ -181,7 +181,6 @@ let shopItemsData = [
         category: "Fabrics",
         originalPrice: 10000,
         imageUrl: "./fabrics-collection/ankara-b-10k.jpg",
-        rating: 4,
     
       },
       {
@@ -542,7 +541,6 @@ let shopItemsData = [
         category: "Fabrics",
         originalPrice: 25000,
         imageUrl: "./fabrics-collection/george3-15k.jpg",
-        rating: 3,
         
       },
       {
