@@ -569,17 +569,4 @@ transform: scale(1.009); /* Adjust the scale/increase in size as needed */
 
 
 
-
-    /* Add to cart functionality */
-    /* .product-item {
-        margin-bottom: 20px;
-    }
-    .hover-scale:hover {
-        transform: scale(1.05);
-        transition: transform 0.3s;
-    }
-    .cart-modal-content img {
-        width: 50px;
-        height: 50px;
-    } */
-    
+/* Media query for the page mostly for the navbar, footer */
