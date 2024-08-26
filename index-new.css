@@ -30,7 +30,7 @@ body {
     display: flex;
     justify-content: space-between; /* Space out items inside the container */
     align-items: center; /* Vertically center items */
-    width: 100%; /* Ensure the container takes full width */
+    width: 90%; /* Ensure the container takes full width */
 }
 
 .navbar .navbar-nav {
